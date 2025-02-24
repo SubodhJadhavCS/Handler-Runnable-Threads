@@ -17,13 +17,14 @@ Multithreading & UI Updates
 
 
 🚀 Installation & Setup
-Clone the repository:
+Clone the repository: https://github.com/SubodhJadhavCS/Handler-Runnable-Threads.git
 sh
 Copy
 Edit
 git clone  
 Open the project in Android Studio.
 Build and run on an Android device or emulator.
+
 🎯 Project Highlights
 Demonstrates efficient multithreading using Handlers.
 Shows UI updates from background threads using post() and sendMessage().
