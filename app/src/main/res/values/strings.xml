@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Handler_Runnable_threads</string>
+    <string name="start_Thread">Start Thread</string>
+</resources>
